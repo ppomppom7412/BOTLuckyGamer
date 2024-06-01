@@ -1,0 +1,2 @@
+# BOTLuckyGamer
+discord bot project
